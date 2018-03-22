@@ -1,2 +1,3 @@
-# sanjeetjh.github.io
-My own Website
+
+# mohan.bojanapu.github.io
+My Own web site
