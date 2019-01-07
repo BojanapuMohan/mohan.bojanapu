@@ -2,4 +2,4 @@ User-Agent: *
 Disallow: 
 Allow: /
 
-Sitemap: http://sanjeetjh.in/sitemap.xml
+Sitemap: http://mohan.bojanapu.in/sitemap.xml
